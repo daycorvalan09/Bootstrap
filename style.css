@@ -1,5 +1,7 @@
 h1{
     text-align: center;
+    background-color: green ;
+    color: black;
 }
 h2{
     text-align: center;
@@ -7,3 +9,13 @@ h2{
 h5{
     text-align: center;
 }
+footer {
+    width: 100%;
+    padding: 16px;
+    background-color: green;
+    height: 70px;
+}
+main{
+    margin-left: 5%;    
+    padding-right: 5% ;
+} 
